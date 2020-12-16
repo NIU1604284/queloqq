@@ -1,0 +1,4 @@
+pablo:acognom1:cognom2:16:club:població
+nom:mcognom11:cognom21:11:club1:població1
+pablno:ncognom12:cognom22:20:club2:població2
+nom:zognom13:cognom23:14:club3:població3

@@ -1,0 +1,10 @@
+nom:cognom1:cognom2:edat:club:població
+nom:cognom1:cognom2:edat:bq:població2
+nom:Cognom1:cognom2:edat:club:població3
+nom:cognom1:cognom2:edat:bq:població4
+nom:cognom1:cognom2:edat:club:població5
+nom:cognom1:cognom2:edat:club:població
+nom:cognom1:cognom2:edat:bq:població2
+nom:Cognom1:cognom2:edat:club:població3
+nom:cognom1:cognom2:edat:bq:població4
+nom:cognom1:cognom2:edat:club:població5

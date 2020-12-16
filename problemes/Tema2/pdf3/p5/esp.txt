@@ -1,0 +1,5 @@
+nom:Acognom1:cognom2:14:club:població
+nom:Ncognom1:cognom2:23:bq:població2
+nom:ZCognom1:cognom2:11:club:població3
+nom:Dcognom1:cognom2:12:bq:població4
+nom:Mcognom1:cognom2:34:club:població5

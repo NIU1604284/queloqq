@@ -1,0 +1,5 @@
+aaa
+texto:b:c:2000:b:b
+c:c:c:2010:c:c
+d:d:d:1990:d:d
+e:e:E:2002:e:e
